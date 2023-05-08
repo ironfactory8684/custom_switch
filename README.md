@@ -1,4 +1,5 @@
-The code you provided is a custom implementation of a switch widget in Flutter. It creates a CustomSwitch widget that can be used in a Flutter application.
+<h1> Custom Switch</h1>
+It's easy to implement custom switches for Flutter. You can change the custom height and width, border of switches and toggles, border radius, color, and toggle size. 
 
 Here's how the code works:
 
