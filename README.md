@@ -20,13 +20,14 @@ The _CustomSwitchState class is the state class for the CustomSwitch widget. It 
 <br> 
 <h4>Sample Usage</h4>
 <br> 
+
 ```
-  Switch(
+  CustomSwitch(
             value: isSwitched,
             onChanged: (value) {
               setState(() {
                 isSwitched = value;
               });
             },
-          ),
+          )
 ```
