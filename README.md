@@ -16,7 +16,6 @@ trackWidth, trackHeight: Dimensions of the switch track.
 toggleWidth, toggleHeight: Dimensions of the switch toggle.
 toggleActiveColor: Color of the toggle when the switch is active.
 trackInActiveColor, trackActiveColor: Colors of the switch track when it is inactive and active, respectively.
-The _CustomSwitchState class is the state class for the CustomSwitch widget. It manages the state of the switch.
 ```
 
 <br> 
