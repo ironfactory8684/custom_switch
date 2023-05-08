@@ -1,9 +1,8 @@
 <h1> Custom Switch</h1>
 It's easy to implement custom switches for Flutter. You can change the custom height and width, border of switches and toggles, border radius, color, and toggle size. 
 
-Here's how the code works:
 
-The CustomSwitch class extends StatefulWidget, indicating that it has mutable state that can change over time.
+Here's how the code works:
 
 ```
 The CustomSwitch class has several properties that can be customized:
