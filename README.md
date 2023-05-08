@@ -2,7 +2,9 @@
 It's easy to implement custom switches for Flutter. You can change the custom height and width, border of switches and toggles, border radius, color, and toggle size. 
 
 <br> 
+<br> 
 Here's how the code works:
+<br> 
 <br> 
 
 ```
